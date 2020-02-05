@@ -77,3 +77,18 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.mm {
+    background-color:#311b92;
+}
+.csv {
+    background-color: #ffee58;
+}
+
+.login {
+    background-color: #9fa8da;
+    
+}
+.ll {
+    color: whitesmoke;
+}
